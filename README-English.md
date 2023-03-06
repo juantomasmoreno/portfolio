@@ -3,6 +3,9 @@ This repository contains a collection of my data science projects in various fie
 In each project, which have been done in collaboration with my colleagues, we used data analysis techniques and tools to obtain valuable insights and relevant conclusions.
 
 ## Projects
+
+*Please take into account that all reports are in Spanish*
+
 + **Transport and commuting in Valencia**: Exploratory analysis of transport patterns in the metropolitan area of Valencia
 + **Fifafurbo!**: Data analysis project aimed at FIFA players in order to improve their gaming experience
 + **Movie theaters**: Using statistical models for decision-making to analyze the situation of Spanish movie theaters
