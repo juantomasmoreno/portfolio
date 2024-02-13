@@ -4,7 +4,7 @@ In each project, which have been done in collaboration with my colleagues, we us
 
 ## Projects
 
-*Please take into account that all reports are in Spanish*
+*Please take into account that all reports except  "Additive Manufacturing" are in Spanish*
 
 + **Transport and commuting in Valencia**: Exploratory analysis of transport patterns in the metropolitan area of Valencia
 + **Fifafurbo!**: Data analysis project aimed at FIFA players in order to improve their gaming experience
