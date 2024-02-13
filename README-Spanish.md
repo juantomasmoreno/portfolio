@@ -9,6 +9,7 @@ En cada proyecto, realizado en equipo con mis compañeros, hemos utilizado técn
 + **Termómetro**: Motor de búsqueda de los diferentes grados a estudiar en la Comunitat Valenciana
 + **Departamento**: Diseño conceptual de una base de datos a partir de un ejemplo práctico
 + **Siniestralidad**: Análisis en profundidad de los accidentes de tráfico que se producen en el área metropolitana de Madrid
++ **Additive Manufacturing** (*en inglés*): Breve informe introductorio sobre una posible aplicación de la programación orientada a objetos en el campo de la manufacturación aditiva
 
 Cada proyecto incluye un informe detallado que describe el proceso y los resultados del análisis.
 
@@ -23,7 +24,7 @@ Cada proyecto incluye un informe detallado que describe el proceso y los resulta
 + Microsoft Excel
 + SQL Server
 + Oracle
-+ R (lenguaje de programación)
++ R / R Studio
 
 
 ## Contacto
