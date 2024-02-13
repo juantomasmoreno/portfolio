@@ -12,7 +12,7 @@ In each project, which have been done in collaboration with my colleagues, we us
 + **Thermometer**: Search engine to learn about Bachelor's degrees in Valencia region
 + **Department**: Conceptual design of a database, based on a practical example
 + **Accident rate**: In-depth analysis of traffic accidents occurring in the metropolitan area of Madrid.
-+ **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in Additive Manufacturing
++ **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in the field of Additive Manufacturing
 
 Each project includes a detailed report describing the process and results of the analysis.
 
