@@ -11,6 +11,7 @@ In each project, which have been done in collaboration with my colleagues, we us
 + **Movie theaters**: Using statistical models for decision-making to analyze the situation of Spanish movie theaters
 + **Thermometer**: Search engine to learn about Bachelor's degrees in Valencia region
 + **Department**: Conceptual design of a database, based on a practical example
++ **Accident rate**: In-depth analysis of traffic accidents occurring in the metropolitan area of Madrid.
 
 Each project includes a detailed report describing the process and results of the analysis.
 
@@ -25,6 +26,7 @@ Each project includes a detailed report describing the process and results of th
 + Microsoft Excel
 + SQL Server
 + Oracle
++ R Programming Language
 
 ## Contact
-If you have any questions or suggestions about any of the projects, feel free to contact me through tomasmoreno.juan@gmail.com.
+If you have any questions or suggestions about any of the projects, or you just want to check the code, feel free to contact me through tomasmoreno.juan@gmail.com.
