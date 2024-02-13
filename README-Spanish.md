@@ -8,6 +8,7 @@ En cada proyecto, realizado en equipo con mis compañeros, hemos utilizado técn
 + **Salas de cine**: Mediante modelos estadísticos para la toma de decisiones, analizar la situación de las salas de cine españolas
 + **Termómetro**: Motor de búsqueda de los diferentes grados a estudiar en la Comunitat Valenciana
 + **Departamento**: Diseño conceptual de una base de datos a partir de un ejemplo práctico
++ **Siniestralidad**: Análisis en profundidad de los accidentes de tráfico que se producen en el área metropolitana de Madrid
 
 Cada proyecto incluye un informe detallado que describe el proceso y los resultados del análisis.
 
@@ -22,7 +23,8 @@ Cada proyecto incluye un informe detallado que describe el proceso y los resulta
 + Microsoft Excel
 + SQL Server
 + Oracle
++ R (lenguaje de programación)
 
 
 ## Contacto
-Si tiene alguna pregunta o sugerencia sobre alguno de los proyectos, no dude en ponerse en contacto conmigo a través de tomasmoreno.juan@gmail.com
+Si tiene alguna pregunta o sugerencia sobre alguno de los proyectos, o quiere ver el código implementado, no dude en ponerse en contacto conmigo a través de tomasmoreno.juan@gmail.com
