@@ -8,10 +8,10 @@ In each project, which have been done in collaboration with my colleagues, we us
 
 + **Transport and commuting in Valencia**: Exploratory analysis of transport patterns in the metropolitan area of Valencia
 + **Fifafurbo!**: Data analysis project aimed at FIFA players in order to improve their gaming experience
-+ **Movie theaters**: Using statistical models for decision-making to analyze the situation of Spanish movie theaters
++ **Movie theaters** (*Salas de cine*): Using statistical models for decision-making to analyze the situation of Spanish movie theaters
 + **Thermometer**: Search engine to learn about Bachelor's degrees in Valencia region
 + **Department**: Conceptual design of a database, based on a practical example
-+ **Accident rate**: In-depth analysis of traffic accidents occurring in the metropolitan area of Madrid.
++ **Accident rate** (*Siniestralidad*): In-depth analysis of traffic accidents occurring in the metropolitan area of Madrid.
 + **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in the field of Additive Manufacturing
 
 Each project includes a detailed report describing the process and results of the analysis.
