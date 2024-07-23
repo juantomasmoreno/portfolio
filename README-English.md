@@ -12,7 +12,8 @@ In each project, which have been done in collaboration with my colleagues, we us
 + **Thermometer**: Search engine to learn about Bachelor's degrees in Valencia region
 + **Department**: Conceptual design of a database, based on a practical example
 + **Accident rate** (*Siniestralidad*): In-depth analysis of traffic accidents occurring in the metropolitan area of Madrid.
-+ **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in the field of Additive Manufacturing
++ **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in the field of Additive Manufacturing. Made in collaboration with the Institute of Material Science at Technical University Munich (TUM).
++ **Describing INDITEX**: Group project in collaboration with INDITEX, where our goal is automating product descriptions using an LLM-based generative AI. *NOTE: Due to being a business-linked project, sensitive data was used, thus making it impossible for us to publish the corresponding report. Anyways, you can contact me if you have any doubts about the project.*
 
 Each project includes a detailed report describing the process and results of the analysis.
 
