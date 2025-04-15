@@ -4,8 +4,6 @@ In each project, which have been done in collaboration with my colleagues, we us
 
 ## Projects
 
-*Please take into account that all reports except  "Additive Manufacturing" are in Spanish*
-
 + **Transport and commuting in Valencia**: Exploratory analysis of transport patterns in the metropolitan area of Valencia
 + **Fifafurbo!**: Data analysis project aimed at FIFA players in order to improve their gaming experience
 + **Movie theaters** (*Salas de cine*): Using statistical models for decision-making to analyze the situation of Spanish movie theaters
@@ -13,7 +11,7 @@ In each project, which have been done in collaboration with my colleagues, we us
 + **Department**: Conceptual design of a database, based on a practical example
 + **Accident rate** (*Siniestralidad*): In-depth analysis of traffic accidents occurring in the metropolitan area of Madrid.
 + **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in the field of Additive Manufacturing. Made in collaboration with the Institute of Material Science at Technical University Munich (TUM).
-+ **Describing INDITEX**: Group project in collaboration with INDITEX, where our goal is automating product descriptions using an LLM-based generative AI. *NOTE: Due to being a business-linked project, sensitive data was used, thus making it impossible for us to publish the corresponding report. Anyways, you can contact me if you have any doubts about the project on the email below.*
++ **Describing INDITEX**: Group project in collaboration with INDITEX, where our goal is automating product descriptions using an LLM-based generative AI approach. | *NOTE: Due to being a business-linked project, sensitive data was used, thus making it impossible for us to publish the corresponding report. Anyways, you can see the informative poster, and you can contact me if you have any doubts about the project on the email below.*
 
 Each project includes a detailed report describing the process and results of the analysis.
 
@@ -30,6 +28,8 @@ Each project includes a detailed report describing the process and results of th
 + Oracle
 + R Programming Language
 + R Studio
++ Mockaroo
++ Scikit-learn
 + PyTorch
 + Tensorflow
 + Hugging Face
