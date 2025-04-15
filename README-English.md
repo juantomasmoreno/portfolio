@@ -3,6 +3,7 @@ This repository contains a collection of my data science projects in various fie
 In each project, which have been done in collaboration with my colleagues, we used data analysis techniques and tools to obtain valuable insights and relevant conclusions.
 
 ## Projects
+Please take into account that some project reports are in Spanish
 
 + **Transport and commuting in Valencia**: Exploratory analysis of transport patterns in the metropolitan area of Valencia
 + **Fifafurbo!**: Data analysis project aimed at FIFA players in order to improve their gaming experience
@@ -13,9 +14,9 @@ In each project, which have been done in collaboration with my colleagues, we us
 + **Additive Manufacturing**: Brief introductory brochure to a possible application of object-oriented programming in the field of Additive Manufacturing. Made in collaboration with the Institute of Material Science at Technical University Munich (TUM).
 + **Oppositional Thinking**: PAN shared task. A thorough experimental analysis with both Spanish and English texts, in which we apply NLP techniques in order to tag text inputs as critics or conspiracies.
 + **Describing INDITEX**: Group project in collaboration with INDITEX, where our goal is automating product descriptions using an LLM-based generative AI approach. / *NOTE: Due to being a business-linked project, sensitive data was used, thus making it impossible for us to publish the corresponding report. Anyways, you can see the informative poster, and you can contact me if you have any doubts about the project on the email below.*
-+ **Scalable ML**: Comparative analysis of the performance of several ML techniques on two well-known datasets: DIGITS and CHB-MIT.
++ **Scalable ML**: Comparative analysis of the performance of several Machine Learning techniques on two well-known datasets: DIGITS and CHB-MIT.
 
-Each project includes a detailed report describing the process and results of the analysis. In any case, feel free to contact me for more information :)
+Each project includes a detailed report describing the process and results of the analysis. 
 
 ## Technologies used
 + Python
