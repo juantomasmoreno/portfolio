@@ -12,7 +12,7 @@ En cada proyecto, realizado en equipo con mis compañeros, hemos utilizado técn
 + **Additive Manufacturing** (*en inglés*): Breve informe introductorio sobre una posible aplicación de la programación orientada a objetos en el campo de la manufacturación aditiva. Realizado en colaboración con el Instituto de Ciencias Materiales de la Universidad Tecnológica de Múnich (TUM).
 + **Oppositional Thinking** (*en inglés*): *PAN shared task*. Análisis experimental de textos en castellano e inglés; buscamos aplicar técnicas de NLP para determinar si un texto es una crítica o una conspiración.
 + **Describing INDITEX** (*en inglés*): Proyecto grupal en colaboración con INDITEX, donde teníamos como objetivo automatizar las descripciones de productos, utilizando un enfoque de IA generativa basada en LLMs. / *NOTA: Al ser un proyecto relacionado con una empresa, se utilizaron datos sensibles y/o confidenciales, lo cual hace imposible la publicación del report. De todas formas, publicamos el poster informativo, y estoy abierto a contestar cualquier duda sobre el proyecto en el correo indicado más abajo.*
-+ **Scalable ML**: Análisis comparativo del desempeño de diversas técnicas de Machine Learning en dos datasets relativamente conocidos: DIGITS y CHB-MIT.
++ **Scalable ML** (*en inglés*): Análisis comparativo del desempeño de diversas técnicas de Machine Learning en dos datasets relativamente conocidos: DIGITS y CHB-MIT.
 
 Cada proyecto incluye un informe detallado que describe el proceso y los resultados del análisis.
 
